@@ -1,4 +1,5 @@
 # game-project
+<small>Level 4 - Programming</small>
 Strawberries - A game project. Rules - collect strawberries, avoiding enemies (snakes) and canyons until you reach the flag.
 
 The scene of the game is composed of randomly-positioned elements to generate a “new” scene on startGame(). The game features sound for jumping and loss of life tokens on contact with a snake or falling into a canyon and carefully drawn graphics to be visually attractive. Other extensions added include platforms and enemies.
